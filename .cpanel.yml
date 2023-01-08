@@ -1,0 +1,4 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/toolcube/public_html/
